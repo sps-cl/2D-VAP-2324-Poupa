@@ -1,25 +1,20 @@
 function calc(a, kod, b){
-    let x;
     switch (kod){
         case "+":
-            x = a + b;
-            console.log(x);
+            console.log(a + b);
             break;
         case "-":
-            x = a - b;
-            console.log(x);
+            console.log(a - b);
             break;
         case "*":
-            x = a * b;
-            console.log(x);
+            console.log(a * b);
             break;
         case "/":
             if (b === 0){
                 console.log("error");
             } 
             else {
-                x = a / b;
-                console.log(x);
+                console.log(a / b);
             }
             break;
             default:
