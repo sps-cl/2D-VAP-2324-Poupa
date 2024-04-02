@@ -1,0 +1,14 @@
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.csproj.AssemblyReference.cache
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.csproj.CoreCompileInputs.cache
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.exe.config
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.exe
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.pdb
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.exe
+C:\Users\frant\Documents\VS 2022\repos\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.pdb
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.exe.config
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.exe
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\bin\Debug\ConsoleApp-Ukol.pdb
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.csproj.AssemblyReference.cache
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.csproj.CoreCompileInputs.cache
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.exe
+C:\Users\frant\Documents\GitHub\2D-VAP-2324-Poupa\ConsoleApp-Ukol\ConsoleApp-Ukol\obj\Debug\ConsoleApp-Ukol.pdb

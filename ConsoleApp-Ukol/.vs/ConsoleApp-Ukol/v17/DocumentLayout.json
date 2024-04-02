@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frant\\Documents\\GitHub\\2D-VAP-2324-Poupa\\ConsoleApp-Ukol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E190B34-14C9-4876-BA5F-5799D1635618}|ConsoleApp-Ukol\\ConsoleApp-Ukol.csproj|c:\\users\\frant\\documents\\github\\2d-vap-2324-poupa\\consoleapp-ukol\\consoleapp-ukol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E190B34-14C9-4876-BA5F-5799D1635618}|ConsoleApp-Ukol\\ConsoleApp-Ukol.csproj|solutionrelative:consoleapp-ukol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frant\\Documents\\GitHub\\2D-VAP-2324-Poupa\\ConsoleApp-Ukol\\ConsoleApp-Ukol\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Ukol\\Program.cs",
+              "ToolTip": "C:\\Users\\frant\\Documents\\GitHub\\2D-VAP-2324-Poupa\\ConsoleApp-Ukol\\ConsoleApp-Ukol\\Program.cs",
+              "RelativeToolTip": "ConsoleApp-Ukol\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:15:04.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
