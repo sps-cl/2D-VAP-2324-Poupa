@@ -1,0 +1,7 @@
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\bin\Debug\CS_UKOL3.exe.config
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\bin\Debug\CS_UKOL3.exe
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\bin\Debug\CS_UKOL3.pdb
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\obj\Debug\CS_UKOL3.csproj.AssemblyReference.cache
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\obj\Debug\CS_UKOL3.csproj.CoreCompileInputs.cache
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\obj\Debug\CS_UKOL3.exe
+C:\Users\frant\Documents\GitHub\Web\CS_UKOL3\CS_UKOL3\obj\Debug\CS_UKOL3.pdb
